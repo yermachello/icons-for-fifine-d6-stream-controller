@@ -20,7 +20,7 @@ Huge icon libraries converted from _.svg_ to _.png_ to use as custom button icon
 
 ## 🗃️ How to use it with Fifine D6?
 1. Download the pack and place it wherever you want
-2. Open Fifine Control Deck and then click on your desired button, then click on a cog below, context menu appears and then choose "Select Local File"
+2. Open Fifine Control Deck and then click on your desired button, then click on a cog below and choose "Select Local File" in context menu
 3. Search images in the explorer window using asterisks like `*folder*`
 4. Done ✨
 
@@ -57,11 +57,3 @@ _Additionally:_<br/>
 `magick mogrify -level 15%,100%,0.90 -format png *.png`<br/>
 7. _You can recolor icons, just replace "red" with any other color or use hex like "#ff0000"_<br/>
 `magick mogrify +level-colors black,red -format png *.png`<br/>
-
-
-<br/>
-
-## 🗒️ To-do
-• Basic color variants for all monochrome icons in ~`materialdesign`~, `fluentui`, `boxicons`, `fontawesome`, `pixeliconlibrary` <br/>
-• Desaturated variants for all multicolored icons in `fluentui\color`<br/>
-• Restructure source `fluentui` size system to eliminate repeating icons basing from size x24 to get more icons for conversion<br/>
