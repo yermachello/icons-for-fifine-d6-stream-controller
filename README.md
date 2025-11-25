@@ -2,7 +2,7 @@
 Huge icon libraries converted from _.svg_ to _.png_ to use as custom button icons on [Fifine D6 Stream Controller](https://fifinemicrophone.com/products/fifine-ampligame-d6) — more than 22k icons available in different colors fitting for any stream controller action.
 <br/>
 <br/>
-<a href="#"><img src="https://github.com/user-attachments/assets/b7eb2e57-6435-407f-bdf7-b92b11fa872d"/></a>
+<a href="#"><img src="https://github.com/user-attachments/assets/110f9c44-0dae-4ea5-b270-ef2d4c94c131"/></a>
 
 ## Icon Libraries Used
 
