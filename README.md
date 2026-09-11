@@ -54,8 +54,7 @@ If you want to convert some other _.svg_ pack you can use [ImageMagick](https://
 `move "[source-image-path]*.png" "[destination-image-path]"`<br/>
 _Additionally:_<br/>
 6. _You can adjust brightness if icons weren't pure white or black color_<br/>
-Brighter `magick mogrify -level 15%,100%,0.90 -format png *.png`<br/>
-or
-Darker `magick mogrify -modulate 50 -format png *.png`<br/>
+brighter `magick mogrify -level 15%,100%,0.90 -format png *.png`<br/>
+or darker `magick mogrify -modulate 50 -format png *.png`<br/>
 7. _You can recolor icons, just replace "red" with any other color or use hex like "#ff0000"_<br/>
 `magick mogrify +level-colors black,red -format png *.png`<br/>
